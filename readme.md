@@ -1,3 +1,5 @@
+Student: Kenneth Vincent B. Castillo
+Year & Block: Year 2 Block 1
 # Practice Sets 01
 
 This C# solution is designed to explore and implement various conditional statements, such as if, else, switch, and ternary operators. It includes multiple console applications, each dedicated to a specific aspect of conditional logic, like evaluating numeric ranges, determining boolean outcomes, and handling multiple conditions. This project serves as a hands-on learning resource for understanding and mastering the use of conditional statements in C# programming.
